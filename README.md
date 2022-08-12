@@ -23,13 +23,15 @@ This text is quoted from the second answer in this [_stack overflow_ article](ht
 The simplest solution is to create a **Quick Action** with **Open Finder Items**: This way you don't need a shell script that might break with an OS update or Vscode update.
 
 1. **Launch Automator** and select Quick Action or File > New > Quick Action If Automator is already open.
-![](./assets/macosx-1.png)
+   ![](./assets/macosx-1.png)
 2. Set Quick Action receives selected to **files or folders** and in to **Finder**.
-![](./assets/macosx-2.png)
+   ![](./assets/macosx-2.png)
 3. Choose an Image (icon) select Choose.. and double click Visual Studio Code in the window that pops up, this will set your quick action icon to the same as VS Code.
 4. Add **Open Finder Items**, Choose open with as **Other..** select **Visual Studio Code** and save your Quick Action as Open in VSCode optionally choose an Image for your Quick Action job done.
-![](./assets/macosx-3.png)
+   ![](./assets/macosx-3.png)
 
 ## Comments? Suggestions?
 
 Please do not hesitate to create an issue for this repository and I will address it at my earliest convenience.
+
+Alex added a line
