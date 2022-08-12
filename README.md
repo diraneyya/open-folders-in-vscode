@@ -33,3 +33,6 @@ The simplest solution is to create a **Quick Action** with **Open Finder Items**
 ## Comments? Suggestions?
 
 Please do not hesitate to create an issue for this repository and I will address it at my earliest convenience.
+
+
+Manisha,I want to clone the project and practice. 
