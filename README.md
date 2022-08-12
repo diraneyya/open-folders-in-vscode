@@ -32,6 +32,6 @@ The simplest solution is to create a **Quick Action** with **Open Finder Items**
 
 ## Comments? Suggestions?
 
-##This is a masive header!
+##This is suppose to be a masive header!
 
 Please do not hesitate to create an issue for this repository and I will address it at my earliest convenience.
